@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
 
-const connStr = 'mongodb+srv://tamtd:h7Xfcmf2GQnMDXKz@api-niie.xvnqi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+const connStr = 'mongodb+srv://tamtd:h7Xfcmf2GQnMDXKz@api-niie.xvnqi.mongodb.net/myapi?retryWrites=true&w=majority'
 
 mongoose.set('debug',true)
 mongoose
